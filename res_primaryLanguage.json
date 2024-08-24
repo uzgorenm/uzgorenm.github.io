@@ -1,0 +1,176 @@
+{
+    "basic_info": {
+      "description_header": "Hello",
+      "description": "I'm Mehmet Uzgoren, a 20 year old Turkish American software engineer interested in distributed systems, operating systems, and concurrent systems work. I have been working as a cloud engineer at Shell for ~6 months, and graduated from the University of Texas at Austin with High Honors in Electrical Computer Engineering.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Counselo",
+        "startDate": "2024",
+        "description": "Academic Counseling Application that utilizes recommender systems, uses React, C++, PostgreSQL backend",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-cplusplus-original",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-mongodb",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-mongodb",
+            "name": "ChatGPT"
+          }
+        ]
+      },
+      {
+        "title": "CCManag",
+        "startDate": "2024",
+        "description": "Credit Card FICO-8 Score Optimization Full-Stack Application using Stripe API, React, SpringBoot, PostgreSQL",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-cplusplus-original",
+            "name": "SpringBoot"
+          },
+          {
+            "class": "devicon-mongodb",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-mongodb",
+            "name": "Stripe"
+          }
+        ]
+      },
+      {
+        "title": "Quasont",
+        "startDate": "2023",
+        "description": "Developed a hardware inventory management system with FastAPI for the backend, handling 100+ API calls daily during testing. Engineered a caching mechanism that reduced database read operations by an estimated 30% during performance testing",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-original",
+            "name": "FastAPI"
+          },
+          {
+            "class": "devicon-cplusplus-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Mock eBay App",
+        "startDate": "2022",
+        "description": "Java Full-Stack application that utilized socket programming for client-server communication and data transfer between the server and multiple clients. Utilized hashing and encryption techniques to ensure the security of user",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaFX"
+          }
+        ]
+      },
+      {
+        "title": "Blip Programming Language",
+        "startDate": "2022",
+        "description": "One of the first applications I worked on in C++, used a text parser and polish notation calculator to evaluate expressions and perform calculations", 
+        "images": [  
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "C++"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Shell",
+        "title": "Cloud Engineer",
+        "years": "02.2024 - present",
+        "mainTech": [
+          "Java",
+          "TypeScript",
+          "PostgreSQL"
+        ],
+        "technologies": [
+          "Microsoft Graph API",
+          "React",
+          "SpringBoot"
+        ]
+      },
+      {
+        "company": "John Deere",
+        "title": "Software Engineer Intern",
+        "years": "04.2023 - 07.2023",
+        "mainTech": [
+          "ReactJS",
+          "NodeJS",
+          "TypeScript"
+        ],
+        "technologies": [
+          "GraphQL",
+          "Grafana",
+          "AWS OpenSearch",
+          "Spotify's Backstage.io"
+        ]
+      },
+      {
+        "company": "Kane Robotics",
+        "title": "Robotics Intern",
+        "years": "02.2023 - 04.2023",
+        "mainTech": [
+          "TensorFlow",
+          "NumPy"
+        ],
+        "technologies": [
+          "UR RoboDK",
+          "SolidWorks"
+        ]
+      }
+    ]
+  }

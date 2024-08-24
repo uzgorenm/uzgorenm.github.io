@@ -1,0 +1,53 @@
+{
+    "basic_info": {
+      "name": "Mehmet Serhat Uzgoren",
+      "titles": [ "Full-Stack Software Engineer", "Cloud Engineer", "Systems Software Engineer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/uzgorenm",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mehmetuzgoren",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "80"
+        },
+        {
+          "name": "SpringBoot",
+          "class": "devicon-spring-plain",
+          "level": "90"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
+        },
+        {
+          "name": "Postgres-SQL",
+          "class": "devicon-postgresql-plain",
+          "level": "75"
+        }
+      ]
+    }
+  }
